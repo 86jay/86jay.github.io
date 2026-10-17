@@ -9,20 +9,20 @@
   },
   "groups": [
     {
-      "label": "sites",
+      "label": "shelf",
       "links": [
         {
-          "name": "IMDb",
+          "name": "imdb",
           "url": "https://www.imdb.com/user/p.pf42zdtzzmexzlv424tce5m7aq?ref_=ext_shr_lnk"
         },
         {
-          "name": "AniList",
+          "name": "anilist",
           "url": "https://anilist.co/user/jsh2099/"
         }
       ]
     },
     {
-      "label": "fav artists & shows",
+      "label": "recs",
       "links": [
         {
           "name": "void_0",
