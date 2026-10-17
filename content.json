@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "links",
-  "mark": "ab",
+  "mark": "jayesh",
   "site": {
     "owner": "",
     "repo": "",
@@ -14,12 +14,21 @@
         {
           "name": "IMDb",
           "url": "https://www.imdb.com/user/p.pf42zdtzzmexzlv424tce5m7aq?ref_=ext_shr_lnk"
+        },
+        {
+          "name": "AniList",
+          "url": "https://anilist.co/user/jsh2099/"
         }
       ]
     },
     {
-      "label": "artists",
-      "links": []
+      "label": "fav artists",
+      "links": [
+        {
+          "name": "void_0",
+          "url": "https://www.pixiv.net/en/users/14801956/illustrations?p=2"
+        }
+      ]
     }
   ]
 }
