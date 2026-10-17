@@ -22,11 +22,19 @@
       ]
     },
     {
-      "label": "fav artists",
+      "label": "fav artists & shows",
       "links": [
         {
           "name": "void_0",
           "url": "https://www.pixiv.net/en/users/14801956/illustrations?p=2"
+        },
+        {
+          "name": "juxtopposed",
+          "url": "https://www.youtube.com/@juxtopposed"
+        },
+        {
+          "name": "madhur model",
+          "url": "https://www.youtube.com/playlist?list=PL1aP2I5Dch-B3Wm5wbSKJRV_UYcqnYum_"
         }
       ]
     }
