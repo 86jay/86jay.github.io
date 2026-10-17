@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "title": "links",
+  "mark": "ab",
+  "site": {
+    "owner": "",
+    "repo": "",
+    "branch": "main"
+  },
+  "groups": [
+    {
+      "label": "sites",
+      "links": []
+    },
+    {
+      "label": "artists",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self' https://api.github.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#F4F1EA" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#171614" media="(prefers-color-scheme: dark)">
+<title>links</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<main id="list" class="list"></main>
+<div id="mark" class="mark"></div>
+<div id="bar" class="bar" hidden>
+  <span id="status" class="status" role="status"></span>
+  <button id="b-add" class="btn" type="button">+ Add</button>
+  <button id="b-save" class="btn primary" type="button">Save</button>
+  <button id="b-menu" class="btn" type="button" aria-label="More options">•••</button>
+</div>
+<dialog id="dlg"></dialog>
+<noscript><p class="noscript">This page needs JavaScript to show its links.</p></noscript>
+</body>
+</html>
